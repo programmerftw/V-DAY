@@ -36,7 +36,7 @@ const TapForLove = () => {
         viewport={{ once: true }}
         transition={{ type: "spring", stiffness: 100 }}
       >
-        Click to Spread the Love!
+        Click Heartto Spread the Love!
       </motion.h2>
 
       <div className="relative">
